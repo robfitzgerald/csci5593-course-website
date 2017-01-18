@@ -1,5 +1,5 @@
 {
-  "name": "csci7551-course-website",
+  "name": "csci5593-course-website",
   "version": "1.0.0",
   "description": "personal course website",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robfitzgerald/csci7551-course-website.git"
+    "url": "git+https://github.com/robfitzgerald/csci5593-course-website.git"
   },
   "author": "Rob Fitzgerald",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/robfitzgerald/csci7551-course-website/issues"
+    "url": "https://github.com/robfitzgerald/csci5593-course-website/issues"
   },
-  "homepage": "https://github.com/robfitzgerald/csci7551-course-website#readme",
+  "homepage": "https://github.com/robfitzgerald/csci5593-course-website#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
