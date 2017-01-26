@@ -12,15 +12,15 @@
 
 		function reports () {
 			return [
-				// {
-				// 	articleTitle: 'Review: Massively Concurrent Agent-Based Evolutionary Computing',
-				// 	articleAuthors: 'D. Krzywicki, W. Turek, A. Byrski, M. Kisiel-Dorohinicki',
-				// 	articleSource: 'Journal Of Computational Science',
-				// 	reviewDate: new Date(2016, 7, 27),
-				// 	articleURL: 'http://ac.els-cdn.com/S1877750315300041/1-s2.0-S1877750315300041-main.pdf?_tid=79eef28c-6e12-11e6-8fb3-00000aacb361&acdnat=1472493811_ca6c7d3e0aac58d39b9746e1454bbc7b',
-				// 	download: 'reviews/massively-concurrent-review.pdf',
-				// 	description: 'This article presents a new approach for generating agents in an asynchronous network which are engaged in an evolutionary optimization algorithm.'
-				// },
+				{
+					articleTitle: 'Lit Review: Reimagining Heterogeneous Computing: a Functional Instruction Set Architecture (F-ISA) Computing Model',
+					articleAuthors: 'Daniel Nemirovsky, Nikola Markovic, Osman Unsal, Mateo Valero, Adrian Cristal',
+					articleSource: 'IEEE Micro',
+					reviewDate: new Date(2015, 11, 11),
+					articleURL: 'http://ieeexplore.ieee.org/abstract/document/7325210/',
+					download: 'reviews/robfitzgerald-review-01.pdf',
+					description: 'Proposing a new ISA for Heterogeneous Computing architectures.'
+				}
 			]
 		}
 	}
